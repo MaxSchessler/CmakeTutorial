@@ -1,3 +1,6 @@
+alias m := make 
+alias b := build 
+alias c := clean
 
 
 make: 
