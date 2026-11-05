@@ -36,4 +36,9 @@ target_sources(MathFunctions
 )
 
 
+target_link_libraries(Tutorial 
+    PRIVATE 
+        MathFunctions
+)
+
 # TODO13: Add the MathFunctions subdirectory to the project
